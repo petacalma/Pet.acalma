@@ -1,0 +1,12 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8f2;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    text-align: center;
+    padding: 100px 20px;
+    color: #634d3b;
+}
